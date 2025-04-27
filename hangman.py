@@ -2,7 +2,29 @@ import random
 import streamlit as st
 
 # List of fruits
-fruits = ['banana', 'apple', 'orange', 'pineapple', 'guava']
+fruits = [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Mango",
+    "Grapes",
+    "Pineapple",
+    "Strawberry",
+    "Blueberry",
+    "Watermelon",
+    "Papaya",
+    "Kiwi",
+    "Cherry",
+    "Peach",
+    "Pomegranate",
+    "Lemon",
+    "Coconut",
+    "Avocado",
+    "Guava",
+    "Plum",
+    "Pear"
+]
+
 
 # Streamlit app
 st.title("🍌🍎🍍 Hangman Game - Guess the Fruit! 🍊🍏")
